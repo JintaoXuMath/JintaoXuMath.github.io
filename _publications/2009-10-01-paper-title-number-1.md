@@ -3,7 +3,7 @@ title: "A Regularized Newton Method for Nonconvex Optimization with Global and L
 collection: publications
 category: manuscripts
 permalink: https://arxiv.org/abs/2502.04799
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Authors: Yuhao Zhou^*, Jintao Xu, Chenglong Bao, Chao Ding, Jun Zhu'
 date: 2009-10-01
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
