@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Probability and Stochastic Processes (10421373-1)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+type: "Class"
 venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+date: 2021-1-1
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+TA, Tsinghua University, Spring 2021
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
