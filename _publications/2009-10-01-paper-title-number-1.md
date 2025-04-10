@@ -1,7 +1,5 @@
 ---
 title: "A Regularized Newton Method for Nonconvex Optimization with Global and Local Complexity Guarantees"
-collection: publications
-category: manuscripts
 permalink: https://arxiv.org/abs/2502.04799
 excerpt: 'Authors: Yuhao Zhou^*, \textbf{Jintao Xu}, Chenglong Bao, Chao Ding, Jun Zhu'
 date: 2009-10-01
