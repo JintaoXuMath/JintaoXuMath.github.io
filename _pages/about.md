@@ -11,7 +11,7 @@ I am a Postdoctoral Fellow working with [Professor Defeng Sun](https://www.polyu
 
 You can find my CV here: [CV]().
 
-Contact: X + Y, where X = jintao.xu, Y = @polyu.edu.hk
+Contact: X@Y, where X = jintao.xu, Y = polyu.edu.hk
 
 Current Interests:
 ======
