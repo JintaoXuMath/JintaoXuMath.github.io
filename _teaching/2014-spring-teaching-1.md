@@ -2,7 +2,7 @@
 title: "Probability and Statistics (10420803)"
 collection: teaching
 type: "Class"
-date: 
+date: 2019
 venue: "TA, Tsinghua University"
 ---
 
