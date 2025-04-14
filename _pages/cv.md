@@ -15,7 +15,7 @@ Education
 * B.S. in Mathematics and Applied Mathematics, [Cuiying Honors College](https://cycollege.lzu.edu.cn/), [Lanzhou University](https://www.lzu.edu.cn/) as part of
 China's Top-Notch Undergraduate Training Program, 2015.09 - 2019.06
 
-Work experience
+Work Experience
 ======
 * Postdoctoral Fellow, 2024.02 - Now
   * [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
