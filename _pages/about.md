@@ -9,8 +9,6 @@ redirect_from:
 
 I am a Postdoctoral Fellow working with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/) in the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), focusing on mathematical programming and machine learning–including algorithms for large-scale optimization problems, semidefinite programming relaxation, and deep neural networks. Prior to that, I obtained my Ph.D. degree in Mathematics (Operations Research, Mathematical Programming) from [Department of Mathematical Sciences](https://www.math.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) in January 2024 under the supervision of [Prof. Wenxun Xing](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182440).
 
-You can find my CV here: [[CV]()].
-
 Contact
 ======
 - Email: X@Y, where X=jintao.xu, Y=polyu.edu.hk
