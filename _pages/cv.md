@@ -35,7 +35,7 @@ coordinate descent (BCD), alternating direction method of multipliers (ADMM)
   * Semidefinite programming relaxation
   * Global optimization algorithm design: branch-and-bound, cutting plane
 * Coding:
-  Python, Julia, MATLAB, Gurobi, Mosek, CVX, PyTorch
+  Python, Julia, MATLAB; Gurobi, Mosek, CVX, PyTorch
 
 Funds:
 ======
