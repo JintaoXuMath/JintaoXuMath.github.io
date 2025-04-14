@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics (Operations Research, Mathematical Programming), [Department of Mathematical Sciences](https://www.math.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), 2019.09 - 2024.01
+* Ph.D in Mathematics (Operations Research, Mathematical Programming), [Department of Mathematical Sciences](https://www.math.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by [Prof. Wenxun Xing](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182440), 2019.09 - 2024.01
 * B.S. in Mathematics and Applied Mathematics, [Cuiying Honors College](https://cycollege.lzu.edu.cn/), [Lanzhou University](https://www.lzu.edu.cn/) as part of
 China's Top-Notch Undergraduate Training Program, 2015.09 - 2019.06
 
