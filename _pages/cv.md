@@ -32,7 +32,7 @@ Skills
 coordinate descent (BCD), alternating direction method of multipliers (ADMM)
   * Convergence (rate) analysis and complexity analysis (discrete model: Turing-Machine-based, continuous model:
 black-box-based)
-  * Theoretical analysis for DNNs training
+  * Theoretical analysis for deep neural networks training
   * Semidefinite programming relaxation
   * Global optimization algorithm design: branch-and-bound, cutting plane
 * Coding:
