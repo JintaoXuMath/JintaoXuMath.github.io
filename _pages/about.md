@@ -44,7 +44,7 @@ Journal Papers
 
 - **Jintao Xu**<sup>*</sup>, Chenglong Bao, Wenxun Xing. Convergence Rates of Training Deep Neural Networks via Alternating Minimization Methods. Optimization Letters. 18, 909–923, 2024 [[pdf](https://link.springer.com/article/10.1007/s11590-023-02026-4#citeas)].
 
-- Yingzhe Xu, **Jintao Xu**, Cheng Lu, Shu-Cherng Fang<sup>*</sup>, Zhibin Deng. A New Global Algorithm for Homogeneous Complex Quadratic Programming Problems and Applications. Pacific Journal of Optimization. 20(4), 667-682, 2024 [[pdf](http://www.yokohamapublishers.jp/online2/pjov20-4.html)].
+- Yingzhe Xu, **Jintao Xu**, Cheng Lu, Shu-Cherng Fang<sup>*</sup>, Zhibin Deng. A New Global Algorithm for Homogeneous Complex Quadratic Programming Problems and Applications. Pacific Journal of Optimization. 20(4), 667-682, 2024 [[pdf](http://www.yokohamapublishers.jp/online-p/PJO/vol20/pjov20n4p667.pdf)].
 
 - **Jintao Xu**, Wenxun Xing<sup>*</sup>. SIR Type COVID-19 Multi-Stage Optimal Control Model (in Chinese). Operations Research Transactions. 27(1), 43-52, 2023 [[pdf](https://www.ort.shu.edu.cn/CN/10.15960/j.cnki.issn.1007-6093.2023.01.003)].
 
