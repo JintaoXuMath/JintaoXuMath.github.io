@@ -26,7 +26,7 @@ Current Interests
 
 - Deep neural networks
 
-Selected (Pre)Publications 
+(Pre)Publications 
 ======
 *: corresponding author
 
