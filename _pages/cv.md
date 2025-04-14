@@ -30,8 +30,7 @@ Skills
 * Research:
   * Numerical optimization algorithm design: proximal point algorithm (PPA), stochastic gradient descent (SGD), block
 coordinate descent (BCD), alternating direction method of multipliers (ADMM)
-  * Convergence (rate) analysis and complexity analysis (discrete model: Turing-Machine-based, continuous model:
-black-box-based)
+  * Convergence (rate) analysis and complexity analysis
   * Theoretical analysis for deep neural networks training
   * Semidefinite programming relaxation
   * Global optimization algorithm design: branch-and-bound, cutting plane
