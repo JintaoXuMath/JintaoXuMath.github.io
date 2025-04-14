@@ -46,10 +46,10 @@ Principal Investigator:
 
 My research is supported in part by
 
-* the National Natural Science Foundation of China (No. 11771243)
 * The Hong Kong Polytechnic University Postdoc Matching Fund Scheme (No. 1-W35A)
 * Huawei's Collaborative Grants "Large scale linear programming solver" and "Solving large scale
 linear programming models for production planning"
+* the National Natural Science Foundation of China (No. 11771243)
 
 Honors and Awards
 ======
