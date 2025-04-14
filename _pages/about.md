@@ -26,7 +26,7 @@ Current Interests
 
 (Pre)Publications 
 ======
-*: corresponding author
+* : corresponding author
 
 Preprints
 ------
