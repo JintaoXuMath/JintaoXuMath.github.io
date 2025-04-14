@@ -39,7 +39,7 @@ Preprints
 
 - Runze Li, **Jintao Xu**<sup>*</sup>, Wenxun Xing. Stable Gradient-Adjusted Root Mean Square Propagation on Least Squares Problem. arXiv:2411.15877, 2024 [[pdf](https://arxiv.org/abs/2411.15877)].
 
-Journal papers
+Journal Papers
 ------
 
 - **Jintao Xu**<sup>*</sup>, Shu-Cherng Fang, Wenxun Xing. Semidefinite Programming Approximation for a Matrix Optimization Problem over an Uncertain Linear System. Journal of Nonlinear and Variational Analysis. 8(6), 831-853, 2024 [[pdf](https://jnva.biemdas.com/archives/2536)].
