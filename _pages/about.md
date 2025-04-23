@@ -17,7 +17,7 @@ I am a Postdoctoral Fellow working with [Prof. Defeng Sun](https://www.polyu.edu
 
 • **Researcher in Artificial Intelligence**
 
-• **Research Assistant Professor, Assistant Professor**
+• **Postdoctoral Fellow, Research Assistant Professor, Assistant Professor**
 
 Contact
 ======
