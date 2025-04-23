@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics (Operations Research, Mathematical Programming), [Department of Mathematical Sciences](https://www.math.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by [Prof. Wenxun Xing](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182440), 2019.09 - 2024.01
+* Ph.D in Mathematics (Operations Research, Mathematical Programming), [Department of Mathematical Sciences](https://www.math.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by [Prof. Wenxun Xing](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182440), 2019.09 - 2024.01 (Complete the Program Ahead of Schedule)
+
+  Awards: Excellent Doctoral Dissertation of Tsinghua University, Outstanding Graduates of Beijing
 * B.S. in Mathematics and Applied Mathematics, [Cuiying Honors College](https://cycollege.lzu.edu.cn/), [Lanzhou University](https://www.lzu.edu.cn/) as part of
 China's Top-Notch Undergraduate Training Program, 2015.09 - 2019.06
+
+  Awards: China National Scholarship, Outstanding Graduates
 
 Work Experience
 ======
@@ -25,6 +29,49 @@ Work Experience
   * [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
   * visit [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/)
   
+Research
+======
+* **Design and analyze proximal (linearized) ADMM, SGA-RMSProp, and regularized Newton’s method
+for large-scale problems:**
+
+  * Parallelizable proximal (linearized) ADMM algorithms for training residual neural networks are designed.
+Convergence, R-(sub)linear rate, and time complexity are investigated both theoretically and numerically.
+
+  * RMSProp with stable gradient adjustment and mini-batch stochastic gradient (SGA-RMSProp) is
+designed. R-linear convergence and the influence of batch size are both theoretically and numerically analyzed.
+
+  * An adaptive quadratic regularized Newton's method is proposed, requiring no prior knowledge of the
+Hessian's Lipschitz constant.
+
+* **BP and non-BP training for deep neural networks (DNNs):**
+
+  * Both serial and parallel/distributed proximal (linearized) ADMM algorithms for training residual neural networks
+are proposed, mitigating the drawbacks of BP-based training as follows:
+
+    * Effectively mitigate exploding gradient issues
+    * Facilitate parallel execution across network layers and significantly reduce computational time
+    * Significantly reduce per-node memory requirements during distributed training
+   
+    Theoretically, both convergence and complexity analyses are presented, and Python's multiprocessing and IPC are
+employed to develop a control protocol for parallel implementation.
+  * A unified framework is proposed for analyzing the convergence rate of alternating-minimization-based DNN
+training algorithms.
+  * A stable gradient-adjusted RMSProp (SGA-RMSProp) algorithm incorporating mini-batch stochastic
+gradient is proposed. R-linear convergence is established for the linear least squares problem.
+
+* **Semidefinite programming (SDP) relaxation for matrix optimization over uncertain linear system:**
+
+  A polynomial-time solvable SDP approximation model for an NP-hard matrix optimization problem over uncertain
+linear system on finite horizon is developed. This method can be used in model predictive control, COVID-19
+pandemic optimal control, Markov chains, and multi-stage enterprise input-output model.
+
+* **Global optimization algorithms for complex quadratically constrained quadratic programmings
+(CQCQPs):**
+
+  A new SDP-relaxation-based branch-and-bound algorithm for a class of CQCQPs with nonconvex constraints
+on modulus and phase difference is proposed. Experiment results show that the algorithm outperforms Gurobi and
+existing global algorithm when applied to discrete and virtual beamforming problems.
+
 Skills
 ======
 * Research:
@@ -36,20 +83,6 @@ coordinate descent (BCD), alternating direction method of multipliers (ADMM)
   * Global optimization algorithm design: branch-and-bound, cutting plane
 * Coding:
   Python, Julia, MATLAB; Gurobi, Mosek, CVX, PyTorch
-
-Funds:
-======
-
-Principal Investigator:
-
-* The Hong Kong Polytechnic University Postdoc Matching Fund Scheme (No. 1-W35A).
-
-My research is supported in part by
-
-* The Hong Kong Polytechnic University Postdoc Matching Fund Scheme (No. 1-W35A)
-* Huawei's Collaborative Grants "Large scale linear programming solver" and "Solving large scale
-linear programming models for production planning"
-* the National Natural Science Foundation of China (No. 11771243)
 
 Honors and Awards
 ======
