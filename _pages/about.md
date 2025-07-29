@@ -21,7 +21,7 @@ I am a Postdoctoral Fellow working with [Prof. Defeng Sun](https://www.polyu.edu
 
 Contact
 ======
-- Email: X@Y, where X=jintao.xu, Y=polyu.edu.hk
+- Email: X@Y, where X=xujtmath, Y=163.com
 
 - LinkedIn: [Jintao Xu (徐瑾涛)](linkedin.com/in/jintao-xu-thu)
 
