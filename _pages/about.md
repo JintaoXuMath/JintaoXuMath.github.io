@@ -11,7 +11,7 @@ redirect_from:
 
 I am an **Algorithm Expert, Researcher (Tech Genius Team, TGT) at JD.com**, working at the intersection of **artificial intelligence, operations research, and supply chain optimization**. My current research focuses on building intelligent decision-making systems that combine mathematical optimization, machine learning, and large language models, with applications in inventory management, fulfillment, and large-scale combinatorial optimization.
 
-Before joining JD.com, I was a Postdoctoral Fellow in the Department of Applied Mathematics at The Hong Kong Polytechnic University, working with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/). I received my Ph.D. in Mathematics (Operations Research / Mathematical Programming) from [Tsinghua University](https://www.tsinghua.edu.cn/) in 2024, supervised by [Prof. Wenxun Xing](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182440) and [Prof. Shu-Cherng Fang](https://ise.ncsu.edu/people/fang/) from NC State University.
+Before joining JD.com, I was a Postdoctoral Fellow in the Department of Applied Mathematics at The Hong Kong Polytechnic University, working with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/). I received my Ph.D. in Mathematics (Operations Research / Mathematical Programming / Artificial Intelligence) from [Tsinghua University](https://www.tsinghua.edu.cn/) in 2024, supervised by [Prof. Wenxun Xing](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182440) and [Prof. Shu-Cherng Fang](https://ise.ncsu.edu/people/fang/) from NC State University.
 
 ## Employment
 
