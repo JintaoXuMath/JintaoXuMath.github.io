@@ -54,4 +54,3 @@ My research broadly lies in **AI for decision making**, with particular interest
 ## Contact
 
 - Email: [xujtmath@163.com](mailto:xujtmath@163.com)
-- [LinkedIn](https://www.linkedin.com/in/jintao-xu-thu/)
