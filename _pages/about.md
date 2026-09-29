@@ -71,7 +71,7 @@ My research broadly lies in **AI for decision making**, with particular interest
 - China National Scholarship
 - Excellent Doctoral Dissertation of Tsinghua University
 - Outstanding Graduate of Beijing
-+
+
 ## Contact
 
 - Email: [xujtmath@163.com](mailto:xujtmath@163.com)
