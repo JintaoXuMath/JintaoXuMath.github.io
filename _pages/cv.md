@@ -26,7 +26,7 @@ Department of Mathematical Sciences; supervised by [Prof. Wenxun Xing](https://w
 
 *Large-scale Numerical Optimization, Solver*
 
-Worked with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/).
+- Worked with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/).
 
 ## Research Interests
 
