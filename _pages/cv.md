@@ -12,6 +12,7 @@ redirect_from:
 ## Employment
 
 **Algorithm Expert, Researcher, JD.com**, 2025.10-Now 
+
 *AI × Operations Research × Supply Chain Optimization*
 
 - Research and development of intelligent decision-making methods for large-scale supply chain problems.
