@@ -54,11 +54,11 @@ Worked with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/).
   
 - Yuhao Zhou, **Jintao Xu**, Bingrui Li, Chenglong Bao, Chao Ding, Jun Zhu. **A Regularized Newton Method for Nonconvex Optimization with Global and Local Complexity Guarantees.** *Advances in Neural Information Processing Systems 38 (NeurIPS 2025)*. [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6a39cf3b666f8bdb2223f253981f3869-Abstract-Conference.html)]
 
-- Runze Li, **Jintao Xu**<sup>*</sup>, Wenxun Xing. **Stable Gradient-Adjusted Root Mean Square Propagation on Least Squares Problem.** *SIAM Journal on Mathematics of Data Science*, 8(2):440–470, 2026. [[paper](https://epubs.siam.org/doi/10.1137/24M171262X)]
+- Runze Li, **Jintao Xu**, Wenxun Xing. **Stable Gradient-Adjusted Root Mean Square Propagation on Least Squares Problem.** *SIAM Journal on Mathematics of Data Science*, 8(2):440–470, 2026. [[paper](https://epubs.siam.org/doi/10.1137/24M171262X)]
 
-- **Jintao Xu**<sup>*</sup>, Yifei Li, Wenxun Xing. **ADMM Algorithms for Residual Network Training: Convergence Analysis and Parallel Implementation.** arXiv:2310.15334. [[paper](https://arxiv.org/abs/2310.15334)]
+- **Jintao Xu**, Yifei Li, Wenxun Xing. **ADMM Algorithms for Residual Network Training: Convergence Analysis and Parallel Implementation.** arXiv:2310.15334. [[paper](https://arxiv.org/abs/2310.15334)]
 
-- **Jintao Xu**<sup>*</sup>, Shu-Cherng Fang, Wenxun Xing. **Semidefinite Programming Approximation for a Matrix Optimization Problem over an Uncertain Linear System.** *Journal of Nonlinear and Variational Analysis*, 8(6):831–853, 2024. [[paper](https://jnva.biemdas.com/archives/2536)]
+- **Jintao Xu**, Shu-Cherng Fang, Wenxun Xing. **Semidefinite Programming Approximation for a Matrix Optimization Problem over an Uncertain Linear System.** *Journal of Nonlinear and Variational Analysis*, 8(6):831–853, 2024. [[paper](https://jnva.biemdas.com/archives/2536)]
 
 ## Honors and Awards
 - China National Scholarship
