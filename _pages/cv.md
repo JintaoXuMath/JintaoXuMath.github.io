@@ -9,126 +9,125 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Mathematics (Operations Research, Mathematical Programming), [Department of Mathematical Sciences](https://www.math.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by [Prof. Wenxun Xing](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182440), 2019.09 - 2024.01 (Complete the Program Ahead of Schedule)
+## Employment
 
-  Awards: Excellent Doctoral Dissertation of Tsinghua University, Outstanding Graduates of Beijing
-* B.S. in Mathematics and Applied Mathematics, [Cuiying Honors College](https://cycollege.lzu.edu.cn/), [Lanzhou University](https://www.lzu.edu.cn/) as part of
-China's Top-Notch Undergraduate Training Program, 2015.09 - 2019.06
+**Algorithm Expert, Researcher, JD.com**  
+*AI × Operations Research × Supply Chain Optimization*
 
-  Awards: China National Scholarship, Outstanding Graduates
+- Research and development of intelligent decision-making methods for large-scale supply chain problems.
+- Current topics include inventory optimization, replenishment and allocation, fulfillment prediction, neural combinatorial optimization, and LLM-assisted operations research.
 
-Work Experience
-======
-* Postdoctoral Fellow, 2024.02 - Now
-  * [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
-  * supervised by [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/)
+**Postdoctoral Fellow, The Hong Kong Polytechnic University**, 2024  
+Department of Applied Mathematics; worked with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/).
 
-* Research Assistant, 2024.01 - 2024.02
-  * [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
-  * visit [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/)
-  
-Research
-======
-* **Design and analyze proximal (linearized) ADMM, SGA-RMSProp, and regularized Newton’s method
-for large-scale problems:**
+## Education
 
-  * Parallelizable proximal (linearized) ADMM algorithms for training residual neural networks are designed.
-Convergence, R-(sub)linear rate, and time complexity are investigated both theoretically and numerically.
+**Ph.D. in Mathematics (Operations Research / Mathematical Programming)**, Tsinghua University, 2019–2024  
+Department of Mathematical Sciences; supervised by [Prof. Wenxun Xing](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182440).
 
-  * RMSProp with stable gradient adjustment and mini-batch stochastic gradient (SGA-RMSProp) is
-designed. R-linear convergence and the influence of batch size are both theoretically and numerically analyzed.
+- Excellent Doctoral Dissertation of Tsinghua University
+- Outstanding Graduate of Beijing
 
-  * An adaptive quadratic regularized Newton's method is proposed, requiring no prior knowledge of the
-Hessian's Lipschitz constant.
+**B.S. in Mathematics and Applied Mathematics**, Lanzhou University, 2015–2019  
+Cuiying Honors College, China's Top-Notch Undergraduate Training Program.
 
-* **BP and non-BP training for deep neural networks (DNNs):**
+- China National Scholarship
+- Outstanding Graduate
 
-  * Both serial and parallel/distributed proximal (linearized) ADMM algorithms for training residual neural networks
-are proposed, mitigating the drawbacks of BP-based training as follows:
+## Research Interests
 
-    * Effectively mitigate exploding gradient issues
-    * Facilitate parallel execution across network layers and significantly reduce computational time
-    * Significantly reduce per-node memory requirements during distributed training
-   
-    Theoretically, both convergence and complexity analyses are presented, and Python's multiprocessing and IPC are
-employed to develop a control protocol for parallel implementation.
-  * A unified framework is proposed for analyzing the convergence rate of alternating-minimization-based DNN
-training algorithms.
-  * A stable gradient-adjusted RMSProp (SGA-RMSProp) algorithm incorporating mini-batch stochastic
-gradient is proposed. R-linear convergence is established for the linear least squares problem.
+- AI for Operations Research and optimization agents
+- Neural combinatorial optimization
+- Supply chain, inventory, replenishment, allocation, and fulfillment optimization
+- Large-scale, stochastic, and nonconvex optimization
+- Learning for sequential decision making and world models
+- Semidefinite programming and global optimization
 
-* **Semidefinite programming (SDP) relaxation for matrix optimization over uncertain linear system:**
+## Recent Work
 
-  A polynomial-time solvable SDP approximation model for an NP-hard matrix optimization problem over uncertain
-linear system on finite horizon is developed. This method can be used in model predictive control, COVID-19
-pandemic optimal control, Markov chains, and multi-stage enterprise input-output model.
+- **Jintao Xu**, Yingzheng Ma, Jiong Dong, Yongzhi Qi, Jianshen Zhang. **Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation.** arXiv:2607.25956, 2026. [[paper](https://arxiv.org/abs/2607.25956)]
 
-* **Global optimization algorithms for complex quadratically constrained quadratic programmings
-(CQCQPs):**
+- Yuanyu Li, **Jintao Xu**, Zijiang Liu, Yongzhi Qi, Ningxuan Kang, Jianshen Zhang, Wei Qi, Chen Xie, Zuo-Jun Max Shen. **SSPO: Structure-Aware Similarity-Weighted Preference Optimization for Neural Combinatorial Optimization.** arXiv:2608.12443, 2026. [[paper](https://arxiv.org/abs/2608.12443)]
 
-  A new SDP-relaxation-based branch-and-bound algorithm for a class of CQCQPs with nonconvex constraints
-on modulus and phase difference is proposed. Experiment results show that the algorithm outperforms Gurobi and
-existing global algorithm when applied to discrete and virtual beamforming problems.
+- **Jintao Xu**, Zhengyu Chen, Ben Zhang, Yongzhi Qi, Jianshen Zhang. **When Should a World Model Move? Loss-Conditioned State Execution.** arXiv:2609.15801, 2026. [[paper](https://arxiv.org/abs/2609.15801)]
 
-Skills
-======
-* Research:
-  * Numerical optimization algorithm design: proximal point algorithm (PPA), stochastic gradient descent (SGD), block
-coordinate descent (BCD), alternating direction method of multipliers (ADMM)
-  * Convergence (rate) analysis and complexity analysis
-  * Theoretical analysis for deep neural networks training
-  * Semidefinite programming relaxation
-  * Global optimization algorithm design: branch-and-bound, cutting plane
-* Coding:
-  Python, Julia, MATLAB; Gurobi, Mosek, CVX, PyTorch
+- **Jintao Xu**, Yingzheng Ma, Jiong Dong, Yongzhi Qi, Jianshen Zhang, Dongyang Geng, Anni Zhang. **Solver-Verified Formulation Generation and Selection for Multi-Warehouse Inventory Allocation Using Large Language Models.** arXiv:2606.29366, 2026. [[paper](https://arxiv.org/abs/2606.29366)]
 
-Honors and Awards
-======
-Tsinghua Univeristy
+## Selected Publications
 
-* Excellent Doctoral Dissertation of Tsinghua University, 2024.06
-* Outstanding Graduates of Beijing, 2024.01
-* Alumni of Tsinghua University-Zhaoyi Innovation Scholarship, 2023.12
-* Zhao Fangxiong Scholarship, 2023.04
-* Friends of Tsinghua University-Zhuji Excellence Scholarship, 2022.12
-* Excellent Teaching Assistant Award, 2022.12
-* Huiyan Excellence Scholarship, 2021.12
-* Mr. Zheng Zongcheng and Mrs. Zheng Xu Cuiping Memorial Scholarship, 2020.07
-* Excellent Teaching Assistants (6 times), 2020-2023
+- Yuhao Zhou, **Jintao Xu**, Bingrui Li, Chenglong Bao, Chao Ding, Jun Zhu. **A Regularized Newton Method for Nonconvex Optimization with Global and Local Complexity Guarantees.** *Advances in Neural Information Processing Systems 38 (NeurIPS 2025)*. [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6a39cf3b666f8bdb2223f253981f3869-Abstract-Conference.html)]
 
-Lanzhou University
+- Runze Li, **Jintao Xu**<sup>*</sup>, Wenxun Xing. **Stable Gradient-Adjusted Root Mean Square Propagation on Least Squares Problem.** *SIAM Journal on Mathematics of Data Science*, 8(2):440–470, 2026. [[paper](https://epubs.siam.org/doi/10.1137/24M171262X)]
 
-* Outstanding Graduates, 2018.12
-* Excellent Student Models, 2018.12
-* China National Scholarship, 2018.11
-* Second Prize in the Final of the 9th National College Students Mathematical Competition, 2018.03
-* Merit Students of Colleges and Universities in Gansu Province, 2017.12
-* First-Class Scholarship for Outstanding Students (2 times), 2016, 2017
-* First-Class Scholarship for Research and Innovation, 2017.12
-* First Prize in the Gansu Division of the 8th (9th) National College Students, 2016, 2017
-* Student Models, 2016.12
+- **Jintao Xu**<sup>*</sup>, Yifei Li, Wenxun Xing. **ADMM Algorithms for Residual Network Training: Convergence Analysis and Parallel Implementation.** arXiv:2310.15334. [[paper](https://arxiv.org/abs/2310.15334)]
 
+- **Jintao Xu**<sup>*</sup>, Shu-Cherng Fang, Wenxun Xing. **Semidefinite Programming Approximation for a Matrix Optimization Problem over an Uncertain Linear System.** *Journal of Nonlinear and Variational Analysis*, 8(6):831–853, 2024. [[paper](https://jnva.biemdas.com/archives/2536)]
 
+- **Jintao Xu**<sup>*</sup>, Chenglong Bao, Wenxun Xing. **Convergence Rates of Training Deep Neural Networks via Alternating Minimization Methods.** *Optimization Letters*, 18:909–923, 2024. [[paper](https://link.springer.com/article/10.1007/s11590-023-02026-4)]
 
-Talks
-======
-* A Matrix Optimization Problem over An Uncertain Linear System and Its Semidefinite Programming Approximations. MOS2023, Chengdu, China. 2023.05
-* A Multi-Stage Optimal Control Model for COVID-19. MOS2021. 2021.03
-  
-Teaching
-======
+- Yingzhe Xu, **Jintao Xu**, Cheng Lu, Shu-Cherng Fang<sup>*</sup>, Zhibin Deng. **A New Global Algorithm for Homogeneous Complex Quadratic Programming Problems and Applications.** *Pacific Journal of Optimization*, 20(4):667–682, 2024.
 
-* Modern Method for Optimal Calculation (60420174-0), TA, Tsinghua University,
-  Spring 2022, Excellent Teaching Assistant; Spring 2023, Excellent Teaching Assistant
+- **Jintao Xu**, Wenxun Xing<sup>*</sup>. **SIR Type COVID-19 Multi-Stage Optimal Control Model.** *Operations Research Transactions*, 27(1):43–52, 2023.
 
-* Algorithm Analysis and Design (70420334-0), TA, Tsinghua University,
-Autumn 2022, Excellent Teaching Assistant; Autumn 2023, Excellent Teaching Assistant
+<sup>*</sup> Corresponding author.
 
-* Probability and Stochastic Processes (10421373-1), TA, Tsinghua University, Spring 2021
+## Research Experience
 
-* Probability and Statistics (10420803), TA, Tsinghua University,
-  Autumn 2020, Excellent Teaching Assistant; Spring 2020; Autumn 2021, Excellent Teaching Assistant
+### Large-Scale and Nonconvex Optimization
 
+- Developed adaptive Newton-type methods with global complexity guarantees and fast local convergence.
+- Studied stochastic first-order methods including stable gradient-adjusted RMSProp with minibatch gradients.
+- Designed proximal and linearized ADMM methods for residual neural network training, including convergence analysis and parallel implementation.
 
+### Mathematical Programming
+
+- Developed semidefinite programming relaxations for matrix optimization over uncertain linear systems.
+- Designed SDP-relaxation-based branch-and-bound methods for nonconvex complex quadratic optimization.
+- Worked with mathematical programming solvers and large-scale optimization pipelines in production settings.
+
+### AI for Combinatorial Decision Making
+
+- Research on learning-based optimization for routing, scheduling, packing, graph optimization, and related combinatorial problems.
+- Research on LLM-assisted optimization, including formulation reasoning and solver-feedback-driven learning.
+- Research on decision-aware world models and uncertainty-aware execution policies.
+
+## Skills
+
+**Optimization:** mathematical programming, stochastic optimization, nonconvex optimization, ADMM, Newton methods, semidefinite programming, branch-and-bound, cutting planes  
+**Machine Learning:** PyTorch, deep learning, reinforcement learning, large language models, neural combinatorial optimization  
+**Programming:** Python, Julia, MATLAB, SQL  
+**Solvers / Systems:** Gurobi, Mosek, CVX; large-scale data and production optimization workflows
+
+## Honors and Awards
+
+### Tsinghua University
+
+- Excellent Doctoral Dissertation of Tsinghua University, 2024
+- Outstanding Graduate of Beijing, 2024
+- Tsinghua University–Zhaoyi Innovation Scholarship, 2023
+- Zhao Fangxiong Scholarship, 2023
+- Friends of Tsinghua University–Zhuji Excellence Scholarship, 2022
+- Excellent Teaching Assistant Award, 2022
+- Huiyan Excellence Scholarship, 2021
+- Excellent Teaching Assistant (multiple semesters), 2020–2023
+
+### Lanzhou University
+
+- Outstanding Graduate, 2018
+- China National Scholarship, 2018
+- Second Prize, Final of the National College Students Mathematical Competition, 2018
+- Merit Student of Colleges and Universities in Gansu Province, 2017
+
+## Selected Talks
+
+- *A Matrix Optimization Problem over an Uncertain Linear System and Its Semidefinite Programming Approximations.* MOS2023, Chengdu, 2023.
+- *A Multi-Stage Optimal Control Model for COVID-19.* MOS2021, 2021.
+
+## Teaching
+
+Teaching Assistant at Tsinghua University for courses including:
+
+- Modern Methods for Optimization
+- Algorithm Analysis and Design
+- Probability and Stochastic Processes
+- Probability and Statistics

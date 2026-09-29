@@ -9,33 +9,33 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Welcome to Jintao Xu's homepage!"
+title                    : "Jintao Xu | AI × Operations Research"
 title_separator          : "-"
 name                     : &name "Jintao Xu"
-description              : &description "personal description"
+description              : &description "Jintao Xu — AI, Operations Research, Optimization, and Supply Chain Decision Intelligence"
 url                      : https://jintaoxumath.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://jintaoxumath.github.io/"
+repository               : "JintaoXuMath/JintaoXuMath.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Xu.png"
+  avatar           :
   name             : "Jintao Xu (徐瑾涛)"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Fellow, AMA, HK PolyU"
-  location         : "Hung Hom, Hong Kong, China"
-  employer         : "HK PolyU"
+  bio              : "Algorithm Expert, Researcher | AI × Operations Research × Supply Chain"
+  location         :
+  employer         : "JD.com"
   uri              : # URL
-  email            : "jintao.xu@polyu.edu.hk" 
+  email            : "xujtmath@163.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/?query=Jintao+Xu&searchtype=author"
   googlescholar    : "https://scholar.google.com/citations?user=sYEBf1kAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-4488-6782"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "academicpages"
+  github           : "JintaoXuMath"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "jintao-xu-thu"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
