@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Dr. Jintao Xu
+# Dr. Jintao Xu（徐瑾涛）
 
 I am an **Algorithm Expert, Researcher at JD.com**, working at the intersection of **artificial intelligence, operations research, and supply chain optimization**. My current research focuses on building intelligent decision-making systems that combine mathematical optimization, machine learning, and large language models, with applications in inventory management, fulfillment, and large-scale combinatorial optimization.
 
