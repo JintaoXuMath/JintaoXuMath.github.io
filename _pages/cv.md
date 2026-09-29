@@ -17,7 +17,7 @@ redirect_from:
 - Research and development of intelligent decision-making methods for large-scale supply chain problems.
 - Current topics include inventory optimization, replenishment and allocation, neural combinatorial optimization, and LLM-assisted operations research.
 
-**Postdoctoral Fellow, The Hong Kong Polytechnic University**, 2024  
+**Postdoctoral Fellow, The Hong Kong Polytechnic University**, 2024-2025  
 Department of Applied Mathematics; worked with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/).
 
 ## Education
@@ -27,12 +27,6 @@ Department of Mathematical Sciences; supervised by [Prof. Wenxun Xing](https://w
 
 - Excellent Doctoral Dissertation of Tsinghua University
 - Outstanding Graduate of Beijing
-
-**B.S. in Mathematics and Applied Mathematics**, Lanzhou University, 2015–2019  
-Cuiying Honors College, China's Top-Notch Undergraduate Training Program.
-
-- China National Scholarship
-- Outstanding Graduate
 
 ## Research Interests
 
