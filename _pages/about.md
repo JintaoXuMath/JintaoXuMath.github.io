@@ -15,7 +15,7 @@ Before joining JD.com, I was a Postdoctoral Fellow in the Department of Applied 
 
 ## Employment
 
-**Algorithm Expert, Researcher, JD.com**, 2025.10 - Now 
+**Algorithm Expert, Researcher, TGT, JD.com**, 2025.10 - Now 
 
 *AI + OR + Supply Chain Optimization, Intelligent Decision*
 - Research and development of intelligent decision-making methods for large-scale supply chain problems.
