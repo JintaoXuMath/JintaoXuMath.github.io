@@ -13,6 +13,27 @@ I am an **Algorithm Expert, Researcher at JD.com**, working at the intersection 
 
 Before joining JD.com, I was a Postdoctoral Fellow in the Department of Applied Mathematics at The Hong Kong Polytechnic University, working with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/). I received my Ph.D. in Mathematics (Operations Research / Mathematical Programming) from [Tsinghua University](https://www.tsinghua.edu.cn/) in 2024, supervised by [Prof. Wenxun Xing](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182440) and [Prof. Shu-Cherng Fang](https://ise.ncsu.edu/people/fang/).
 
+## Employment
+
+**Algorithm Expert, Researcher, JD.com**, 2025.10 - Now 
+
+*AI + OR + Supply Chain Optimization, Intelligent Decision*
+
+- Research and development of intelligent decision-making methods for large-scale supply chain problems.
+- Current topics include inventory optimization, replenishment and allocation, neural combinatorial optimization, and LLM-assisted operations research.
+
+**Postdoctoral Fellow, The Hong Kong Polytechnic University**, 2024.02 - 2025.09  
+
+*Large-scale Numerical Optimization, Solver*
+
+Worked with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/).
+
+## Education
+
+**Ph.D. in Mathematics (Operations Research / Mathematical Programming / Artificial Intelligence)**, Tsinghua University, 2019.09 – 2024.01 **(Graduate Early)**  
+Department of Mathematical Sciences; supervised by [Prof. Wenxun Xing](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182440) and [Prof. Shu-Cherng Fang](https://ise.ncsu.edu/people/fang/).
+
+
 ## Research Interests
 
 My research broadly lies in **AI for decision making**, with particular interests in:
