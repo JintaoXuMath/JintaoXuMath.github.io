@@ -18,7 +18,6 @@ Before joining JD.com, I was a Postdoctoral Fellow in the Department of Applied 
 **Algorithm Expert, Researcher, JD.com**, 2025.10 - Now 
 
 *AI + OR + Supply Chain Optimization, Intelligent Decision*
-
 - Research and development of intelligent decision-making methods for large-scale supply chain problems.
 - Current topics include inventory optimization, replenishment and allocation, neural combinatorial optimization, and LLM-assisted operations research.
 
