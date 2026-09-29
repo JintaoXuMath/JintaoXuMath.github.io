@@ -35,17 +35,23 @@ My research broadly lies in **AI for decision making**, with particular interest
 
 ## Selected Publications
 
+- Zheng Qu, Defeng Sun and **Jintao Xu** (alpha-beta order). **Progressive Bound Strengthening via Doubly Nonnegative Cutting Planes for Nonconvex Quadratic Programs**, arXiv:2510.02948, 2025. [[paper](https://arxiv.org/abs/2510.02948)]
+  
+- Yuhao Zhou, **Jintao Xu**, Bingrui Li, Chenglong Bao, Chao Ding, Jun Zhu. **A Regularized Newton Method for Nonconvex Optimization with Global and Local Complexity Guarantees.** *Advances in Neural Information Processing Systems 38 (NeurIPS 2025)*. [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6a39cf3b666f8bdb2223f253981f3869-Abstract-Conference.html)]
+
+- Runze Li, **Jintao Xu**<sup>*</sup>, Wenxun Xing. **Stable Gradient-Adjusted Root Mean Square Propagation on Least Squares Problem.** *SIAM Journal on Mathematics of Data Science*, 8(2):440–470, 2026. [[paper](https://epubs.siam.org/doi/10.1137/24M171262X)]
+
+- **Jintao Xu**<sup>*</sup>, Yifei Li, Wenxun Xing. **ADMM Algorithms for Residual Network Training: Convergence Analysis and Parallel Implementation.** arXiv:2310.15334. [[paper](https://arxiv.org/abs/2310.15334)]
+
+- **Jintao Xu**<sup>*</sup>, Shu-Cherng Fang, Wenxun Xing. **Semidefinite Programming Approximation for a Matrix Optimization Problem over an Uncertain Linear System.** *Journal of Nonlinear and Variational Analysis*, 8(6):831–853, 2024. [[paper](https://jnva.biemdas.com/archives/2536)]
 
 ## Honors
 
-- Excellent Doctoral Dissertation of Tsinghua University, 2024
-- Outstanding Graduate of Beijing, 2024
-- China National Scholarship, 2018
-
+- China National Scholarship
+- Excellent Doctoral Dissertation of Tsinghua University
+- Outstanding Graduate of Beijing
++
 ## Contact
 
 - Email: [xujtmath@163.com](mailto:xujtmath@163.com)
-- [Google Scholar](https://scholar.google.com/citations?user=sYEBf1kAAAAJ&hl=en)
-- [GitHub](https://github.com/JintaoXuMath)
 - [LinkedIn](https://www.linkedin.com/in/jintao-xu-thu/)
-- [ORCID](https://orcid.org/0000-0003-4488-6782)
