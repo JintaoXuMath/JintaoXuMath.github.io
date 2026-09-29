@@ -15,7 +15,7 @@ Department of Mathematical Sciences; supervised by [Prof. Wenxun Xing](https://w
 
 ## Employment
 
-**Algorithm Expert, Researcher, JD.com**, 2025.10 - Now 
+**Algorithm Expert, Researcher, TGT, JD.com**, 2025.10 - Now 
 
 *AI + OR + Supply Chain Optimization, Intelligent Decision*
 
