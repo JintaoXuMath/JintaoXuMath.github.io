@@ -22,7 +22,7 @@ Department of Applied Mathematics; worked with [Prof. Defeng Sun](https://www.po
 
 ## Education
 
-**Ph.D. in Mathematics (Operations Research / Mathematical Programming)**, Tsinghua University, 2019–2024  
+**Ph.D. in Mathematics (Operations Research / Mathematical Programming / Artificial Intelligence)**, Tsinghua University, 2019–2024  
 Department of Mathematical Sciences; supervised by [Prof. Wenxun Xing](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182440).
 
 - Excellent Doctoral Dissertation of Tsinghua University
