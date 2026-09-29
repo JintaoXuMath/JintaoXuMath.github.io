@@ -26,7 +26,7 @@ Before joining JD.com, I was a Postdoctoral Fellow in the Department of Applied 
 
 *Large-scale Numerical Optimization, Solver*
 
-Worked with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/).
+- Worked with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/).
 
 ## Education
 
