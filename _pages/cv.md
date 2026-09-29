@@ -11,18 +11,18 @@ redirect_from:
 
 ## Employment
 
-**Algorithm Expert, Researcher, JD.com**  
+**Algorithm Expert, Researcher, JD.com**, 2025.10-Now 
 *AI × Operations Research × Supply Chain Optimization*
 
 - Research and development of intelligent decision-making methods for large-scale supply chain problems.
 - Current topics include inventory optimization, replenishment and allocation, neural combinatorial optimization, and LLM-assisted operations research.
 
-**Postdoctoral Fellow, The Hong Kong Polytechnic University**, 2024-2025  
+**Postdoctoral Fellow, The Hong Kong Polytechnic University**, 2024.02-2025.09  
 Department of Applied Mathematics; worked with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/).
 
 ## Education
 
-**Ph.D. in Mathematics (Operations Research / Mathematical Programming / Artificial Intelligence)**, Tsinghua University, 2019–2024  
+**Ph.D. in Mathematics (Operations Research / Mathematical Programming / Artificial Intelligence)**, Tsinghua University, 2019.09–2024.01 (Graduate Early)  
 Department of Mathematical Sciences; supervised by [Prof. Wenxun Xing](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182440).
 
 - Excellent Doctoral Dissertation of Tsinghua University
