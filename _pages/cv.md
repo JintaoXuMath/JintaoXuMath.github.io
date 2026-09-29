@@ -15,7 +15,7 @@ redirect_from:
 *AI × Operations Research × Supply Chain Optimization*
 
 - Research and development of intelligent decision-making methods for large-scale supply chain problems.
-- Current topics include inventory optimization, replenishment and allocation, fulfillment prediction, neural combinatorial optimization, and LLM-assisted operations research.
+- Current topics include inventory optimization, replenishment and allocation, neural combinatorial optimization, and LLM-assisted operations research.
 
 **Postdoctoral Fellow, The Hong Kong Polytechnic University**, 2024  
 Department of Applied Mathematics; worked with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/).
