@@ -11,7 +11,7 @@ redirect_from:
 
 I am an **Algorithm Expert, Researcher (Tech Genius Team, TGT) at JD.com**, working at the intersection of **Artificial Intelligence, Operations Research, and Supply Chain Optimization**. My current work focuses on building intelligent decision-making systems that combine mathematical optimization, machine learning, and large language models, with applications in inventory management, fulfillment, and large-scale combinatorial optimization.
 
-Before joining JD.com, I was a Postdoctoral Fellow in the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), working with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/). I received my Ph.D. in Mathematics (Operations Research / Mathematical Programming / Artificial Intelligence) from the [Department of Mathematical Sciences](https://math.tsinghua.edu.cn/mathen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2024, supervised by [Prof. Wenxun Xing](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182440) and [Prof. Shu-Cherng Fang](https://ise.ncsu.edu/people/fang/) from [NC State University](https://www.ncsu.edu/).
+Before joining JD.com, I was a Postdoctoral Fellow in the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), working with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/). I received my Ph.D. in Mathematics (Operations Research / Mathematical Programming / Artificial Intelligence) from the [Department of Mathematical Sciences](https://math.tsinghua.edu.cn/mathen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2024, supervised by [Prof. Wenxun Xing](https://math.tsinghua.edu.cn/mathen/info/1312/3525.htm) and [Prof. Shu-Cherng Fang](https://ise.ncsu.edu/people/fang/) from [NC State University](https://www.ncsu.edu/).
 
 ## Employment
 
@@ -59,11 +59,11 @@ My research broadly lies in **AI for decision making**, with particular interest
   
 - [Yuhao Zhou](https://yuhaoz.com/), **Jintao Xu**, [Bingrui Li](https://bingrui-li.github.io/), [Chenglong Bao](https://matbc.github.io/), [Chao Ding](https://www.dingchao.info/), [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). **A Regularized Newton Method for Nonconvex Optimization with Global and Local Complexity Guarantees.** *Advances in Neural Information Processing Systems 38 (NeurIPS 2025)*. [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6a39cf3b666f8bdb2223f253981f3869-Abstract-Conference.html)]
 
-- Runze Li, **Jintao Xu**, Wenxun Xing. **Stable Gradient-Adjusted Root Mean Square Propagation on Least Squares Problem.** *SIAM Journal on Mathematics of Data Science*, 8(2):440–470, 2026. [[paper](https://epubs.siam.org/doi/10.1137/24M171262X)]
+- Runze Li, **Jintao Xu**, [Wenxun Xing](https://math.tsinghua.edu.cn/mathen/info/1312/3525.htm). **Stable Gradient-Adjusted Root Mean Square Propagation on Least Squares Problem.** *SIAM Journal on Mathematics of Data Science*, 8(2):440–470, 2026. [[paper](https://epubs.siam.org/doi/10.1137/24M171262X)]
 
-- **Jintao Xu**, Yifei Li, Wenxun Xing. **ADMM Algorithms for Residual Network Training: Convergence Analysis and Parallel Implementation.** arXiv:2310.15334. [[paper](https://arxiv.org/abs/2310.15334)]
+- **Jintao Xu**, Yifei Li, [Wenxun Xing](https://math.tsinghua.edu.cn/mathen/info/1312/3525.htm). **ADMM Algorithms for Residual Network Training: Convergence Analysis and Parallel Implementation.** arXiv:2310.15334. [[paper](https://arxiv.org/abs/2310.15334)]
 
-- **Jintao Xu**, [Shu-Cherng Fang](https://ise.ncsu.edu/people/fang/), Wenxun Xing. **Semidefinite Programming Approximation for a Matrix Optimization Problem over an Uncertain Linear System.** *Journal of Nonlinear and Variational Analysis*, 8(6):831–853, 2024. [[paper](https://jnva.biemdas.com/archives/2536)]
+- **Jintao Xu**, [Shu-Cherng Fang](https://ise.ncsu.edu/people/fang/), [Wenxun Xing](https://math.tsinghua.edu.cn/mathen/info/1312/3525.htm). **Semidefinite Programming Approximation for a Matrix Optimization Problem over an Uncertain Linear System.** *Journal of Nonlinear and Variational Analysis*, 8(6):831–853, 2024. [[paper](https://jnva.biemdas.com/archives/2536)]
 
 ## Honors and Awards
 
