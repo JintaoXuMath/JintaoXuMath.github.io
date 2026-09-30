@@ -30,7 +30,7 @@ Department of Mathematical Sciences; supervised by [Prof. Wenxun Xing](https://w
 
 ## Research Interests
 
-- LLM / Agent Systems / GNN for operations research
+- LLM, agent systems, GNN for operations research
 - Neural combinatorial optimization
 - Heuristic algorithm, parallel computing, computational complexity
 - Supply chain, inventory, replenishment, allocation, and fulfillment optimization
