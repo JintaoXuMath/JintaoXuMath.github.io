@@ -9,7 +9,7 @@ redirect_from:
 
 # Dr. Jintao Xu（徐瑾涛）
 
-Welcome to my homepage!
+**Welcome to my homepage!**
 
 I am an **Algorithm Expert and Researcher (Tech Genius Team, TGT) at JD.com**, working at the intersection of **Artificial Intelligence, Operations Research, and Supply Chain Optimization**. My current work focuses on building intelligent decision-making systems that combine mathematical optimization, machine learning, and large language models, with applications in inventory management, fulfillment, and large-scale combinatorial optimization.
 
