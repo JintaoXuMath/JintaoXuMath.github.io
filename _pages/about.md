@@ -30,7 +30,7 @@ Before joining JD.com, I was a Postdoctoral Fellow in the [Department of Applied
 ## Education
 
 **Ph.D. in Mathematics (Operations Research / Mathematical Programming / Artificial Intelligence)**, [Department of Mathematical Sciences](https://math.tsinghua.edu.cn/mathen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2019.09 – 2024.01 **(Graduate Early)**  
-Supervised by [Prof. Wenxun Xing](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182440) and [Prof. Shu-Cherng Fang](https://ise.ncsu.edu/people/fang/) from NC State University.
+Supervised by [Prof. Wenxun Xing](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182440) and [Prof. Shu-Cherng Fang](https://ise.ncsu.edu/people/fang/) from [NC State University](https://www.ncsu.edu/).
 
 
 ## Research Interests
