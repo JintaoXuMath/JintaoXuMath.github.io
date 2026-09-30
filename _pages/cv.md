@@ -52,7 +52,7 @@ Department of Mathematical Sciences; supervised by [Prof. Wenxun Xing](https://m
 
 - [Zheng Qu](https://zhengqu-x.github.io/), [Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/) and **Jintao Xu** (alpha-beta order). **Progressive Bound Strengthening via Doubly Nonnegative Cutting Planes for Nonconvex Quadratic Programs**, arXiv:2510.02948, 2025. [[paper](https://arxiv.org/abs/2510.02948)]
   
-- Yuhao Zhou, **Jintao Xu**, Bingrui Li, Chenglong Bao, Chao Ding, Jun Zhu. **A Regularized Newton Method for Nonconvex Optimization with Global and Local Complexity Guarantees.** *Advances in Neural Information Processing Systems 38 (NeurIPS 2025)*. [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6a39cf3b666f8bdb2223f253981f3869-Abstract-Conference.html)]
+- [Yuhao Zhou](https://yuhaoz.com/), **Jintao Xu**, [Bingrui Li](https://bingrui-li.github.io/), [Chenglong Bao](https://matbc.github.io/), [Chao Ding](https://www.dingchao.info/), [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). **A Regularized Newton Method for Nonconvex Optimization with Global and Local Complexity Guarantees.** *Advances in Neural Information Processing Systems 38 (NeurIPS 2025)*. [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6a39cf3b666f8bdb2223f253981f3869-Abstract-Conference.html)]
 
 - Runze Li, **Jintao Xu**, [Wenxun Xing](https://math.tsinghua.edu.cn/mathen/info/1312/3525.htm). **Stable Gradient-Adjusted Root Mean Square Propagation on Least Squares Problem.** *SIAM Journal on Mathematics of Data Science*, 8(2):440–470, 2026. [[paper](https://epubs.siam.org/doi/10.1137/24M171262X)]
 
