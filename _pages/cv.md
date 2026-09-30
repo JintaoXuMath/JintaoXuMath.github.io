@@ -50,7 +50,7 @@ Department of Mathematical Sciences; supervised by [Prof. Wenxun Xing](https://m
 
 ## Selected Publications
 
-- Zheng Qu, [Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/) and **Jintao Xu** (alpha-beta order). **Progressive Bound Strengthening via Doubly Nonnegative Cutting Planes for Nonconvex Quadratic Programs**, arXiv:2510.02948, 2025. [[paper](https://arxiv.org/abs/2510.02948)]
+- [Zheng Qu](https://zhengqu-x.github.io/), [Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/) and **Jintao Xu** (alpha-beta order). **Progressive Bound Strengthening via Doubly Nonnegative Cutting Planes for Nonconvex Quadratic Programs**, arXiv:2510.02948, 2025. [[paper](https://arxiv.org/abs/2510.02948)]
   
 - Yuhao Zhou, **Jintao Xu**, Bingrui Li, Chenglong Bao, Chao Ding, Jun Zhu. **A Regularized Newton Method for Nonconvex Optimization with Global and Local Complexity Guarantees.** *Advances in Neural Information Processing Systems 38 (NeurIPS 2025)*. [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6a39cf3b666f8bdb2223f253981f3869-Abstract-Conference.html)]
 
