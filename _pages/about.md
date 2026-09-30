@@ -45,7 +45,7 @@ My research broadly lies in **AI for decision making**, with particular interest
 
 ## Recent Work
 
-- **Jintao Xu**, Zhengyu Chen, Ben Zhang, Yongzhi Qi, Jianshen Zhang. **When Should a World Model Move? Loss-Conditioned State Execution.** arXiv:2609.15801, 2026. [[paper](https://arxiv.org/abs/2609.15801)]
+- **Jintao Xu**, Zhengyu Chen, Ben Zhang, [Yongzhi Qi](https://qi-yongzhi.github.io/), Jianshen Zhang. **When Should a World Model Move? Loss-Conditioned State Execution.** arXiv:2609.15801, 2026. [[paper](https://arxiv.org/abs/2609.15801)]
 
 - Yuanyu Li, **Jintao Xu**, Zijiang Liu, Yongzhi Qi, Ningxuan Kang, Jianshen Zhang, Wei Qi, Chen Xie, Zuo-Jun Max Shen. **SSPO: Structure-Aware Similarity-Weighted Preference Optimization for Neural Combinatorial Optimization.** arXiv:2608.12443, 2026. [[paper](https://arxiv.org/abs/2608.12443)]
 
