@@ -37,7 +37,7 @@ Department of Mathematical Sciences; supervised by [Prof. Wenxun Xing](https://w
 
 My research broadly lies in **AI for decision making**, with particular interests in:
 
-- **AI for Operations Research** — LLM-assisted optimization, formulation selection, and optimization agents
+- **AI for Operations Research** — LLM-assisted optimization, formulation selection, and agent systems
 - **Neural Combinatorial Optimization** — learning-based methods for routing, scheduling, packing, and graph problems
 - **Supply Chain Optimization** — inventory management, replenishment, allocation, and fulfillment decisions
 - **Large-Scale Optimization** — stochastic and nonconvex optimization, Newton-type methods, ADMM, and scalable numerical algorithms
