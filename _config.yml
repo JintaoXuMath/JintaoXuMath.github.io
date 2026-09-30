@@ -13,7 +13,7 @@ title                    : "Jintao Xu"
 title_separator          : "-"
 name                     : &name "Jintao Xu"
 description              : &description "Jintao Xu — AI, Operations Research, Optimization, and Supply Chain Decision Intelligence"
-url                      : https://jintaoxumath.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://jintaoxumath.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JintaoXuMath/JintaoXuMath.github.io"
 
