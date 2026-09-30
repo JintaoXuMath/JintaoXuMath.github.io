@@ -49,13 +49,13 @@ My research broadly lies in **AI for decision making**, with particular interest
 
 - Yuanyu Li, **Jintao Xu**, Zijiang Liu, [Yongzhi Qi](https://qi-yongzhi.github.io/), Ningxuan Kang, Jianshen Zhang, [Wei Qi](https://wei-qi-home.github.io/), Chen Xie, [Zuo-Jun Max Shen](https://zj-maxshen.github.io/). **SSPO: Structure-Aware Similarity-Weighted Preference Optimization for Neural Combinatorial Optimization.** arXiv:2608.12443, 2026. [[paper](https://arxiv.org/abs/2608.12443)]
 
-- **Jintao Xu**, Yingzheng Ma, Jiong Dong, Yongzhi Qi, Jianshen Zhang. **Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation.** arXiv:2607.25956, 2026. [[paper](https://arxiv.org/abs/2607.25956)]
+- **Jintao Xu**, Yingzheng Ma, Jiong Dong, [Yongzhi Qi](https://qi-yongzhi.github.io/), Jianshen Zhang. **Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation.** arXiv:2607.25956, 2026. [[paper](https://arxiv.org/abs/2607.25956)]
 
-- **Jintao Xu**, Yingzheng Ma, Jiong Dong, Yongzhi Qi, Jianshen Zhang, Dongyang Geng, Anni Zhang. **Solver-Verified Formulation Generation and Selection for Multi-Warehouse Inventory Allocation Using Large Language Models.** arXiv:2606.29366, 2026. [[paper](https://arxiv.org/abs/2606.29366)]
+- **Jintao Xu**, Yingzheng Ma, Jiong Dong, [Yongzhi Qi](https://qi-yongzhi.github.io/), Jianshen Zhang, Dongyang Geng, Anni Zhang. **Solver-Verified Formulation Generation and Selection for Multi-Warehouse Inventory Allocation Using Large Language Models.** arXiv:2606.29366, 2026. [[paper](https://arxiv.org/abs/2606.29366)]
 
 ## Selected Publications
 
-- Zheng Qu, Defeng Sun and **Jintao Xu** (alpha-beta order). **Progressive Bound Strengthening via Doubly Nonnegative Cutting Planes for Nonconvex Quadratic Programs**, arXiv:2510.02948, 2025. [[paper](https://arxiv.org/abs/2510.02948)]
+- [Zheng Qu](https://zhengqu-x.github.io/), [Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/) and **Jintao Xu** (alpha-beta order). **Progressive Bound Strengthening via Doubly Nonnegative Cutting Planes for Nonconvex Quadratic Programs**, arXiv:2510.02948, 2025. [[paper](https://arxiv.org/abs/2510.02948)]
   
 - Yuhao Zhou, **Jintao Xu**, Bingrui Li, Chenglong Bao, Chao Ding, Jun Zhu. **A Regularized Newton Method for Nonconvex Optimization with Global and Local Complexity Guarantees.** *Advances in Neural Information Processing Systems 38 (NeurIPS 2025)*. [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6a39cf3b666f8bdb2223f253981f3869-Abstract-Conference.html)]
 
