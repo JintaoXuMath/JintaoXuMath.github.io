@@ -63,7 +63,7 @@ My research broadly lies in **AI for decision making**, with particular interest
 
 - **Jintao Xu**, Yifei Li, Wenxun Xing. **ADMM Algorithms for Residual Network Training: Convergence Analysis and Parallel Implementation.** arXiv:2310.15334. [[paper](https://arxiv.org/abs/2310.15334)]
 
-- **Jintao Xu**, Shu-Cherng Fang, Wenxun Xing. **Semidefinite Programming Approximation for a Matrix Optimization Problem over an Uncertain Linear System.** *Journal of Nonlinear and Variational Analysis*, 8(6):831–853, 2024. [[paper](https://jnva.biemdas.com/archives/2536)]
+- **Jintao Xu**, [Shu-Cherng Fang](https://ise.ncsu.edu/people/fang/), Wenxun Xing. **Semidefinite Programming Approximation for a Matrix Optimization Problem over an Uncertain Linear System.** *Journal of Nonlinear and Variational Analysis*, 8(6):831–853, 2024. [[paper](https://jnva.biemdas.com/archives/2536)]
 
 ## Honors and Awards
 
