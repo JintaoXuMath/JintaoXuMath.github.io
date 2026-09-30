@@ -17,7 +17,7 @@ Department of Mathematical Sciences; supervised by [Prof. Wenxun Xing](https://w
 
 **Algorithm Expert, Researcher, TGT, JD.com**, 2025.10 - Now 
 
-*AI + OR + Supply Chain Optimization, Intelligent Decision*
+*Intelligent Decision, AI + OR + Supply Chain Optimization*
 
 - Research and development of intelligent decision-making methods for large-scale supply chain problems.
 - Current topics include inventory optimization, replenishment and allocation, neural combinatorial optimization, and LLM-assisted operations research.
