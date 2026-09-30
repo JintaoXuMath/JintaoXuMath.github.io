@@ -11,7 +11,7 @@ redirect_from:
 
 I am an **Algorithm Expert, Researcher (Tech Genius Team, TGT) at JD.com**, working at the intersection of **Artificial Intelligence, Operations Research, and Supply Chain Optimization**. My current work focuses on building intelligent decision-making systems that combine mathematical optimization, machine learning, and large language models, with applications in inventory management, fulfillment, and large-scale combinatorial optimization.
 
-Before joining JD.com, I was a Postdoctoral Fellow in the Department of Applied Mathematics at The Hong Kong Polytechnic University, working with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/). I received my Ph.D. in Mathematics (Operations Research / Mathematical Programming / Artificial Intelligence) from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2024, supervised by [Prof. Wenxun Xing](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182440) and [Prof. Shu-Cherng Fang](https://ise.ncsu.edu/people/fang/) from NC State University.
+Before joining JD.com, I was a Postdoctoral Fellow in the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), working with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/). I received my Ph.D. in Mathematics (Operations Research / Mathematical Programming / Artificial Intelligence) from the [Department of Mathematical Sciences](https://math.tsinghua.edu.cn/mathen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2024, supervised by [Prof. Wenxun Xing](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=182440) and [Prof. Shu-Cherng Fang](https://ise.ncsu.edu/people/fang/) from NC State University.
 
 ## Employment
 
