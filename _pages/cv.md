@@ -9,8 +9,8 @@ redirect_from:
 
 ## Education
 
-**Ph.D. in Mathematics (Operations Research / Mathematical Programming / Artificial Intelligence)**, Tsinghua University, 2019.09 – 2024.01 **(Graduate Early)**  
-Department of Mathematical Sciences; supervised by [Prof. Wenxun Xing](https://math.tsinghua.edu.cn/mathen/info/1312/3525.htm) and [Prof. Shu-Cherng Fang](https://ise.ncsu.edu/people/fang/) from NC State University.
+**Ph.D. in Mathematics (Operations Research / Mathematical Programming / Artificial Intelligence)**, [Department of Mathematical Sciences](https://math.tsinghua.edu.cn/mathen/),, [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2019.09 – 2024.01 **(Graduate Early)**  
+Supervised by [Prof. Wenxun Xing](https://math.tsinghua.edu.cn/mathen/info/1312/3525.htm) and [Prof. Shu-Cherng Fang](https://ise.ncsu.edu/people/fang/) from [NC State University](https://www.ncsu.edu/).
 
 
 ## Employment
