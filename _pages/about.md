@@ -23,7 +23,7 @@ Before joining JD.com, I was a Postdoctoral Fellow in the Department of Applied 
 
 **Postdoctoral Fellow, The Hong Kong Polytechnic University**, 2024.02 - 2025.09  
 
-*Large-Scale Numerical Optimization, Solver*
+*Large-Scale Numerical Optimization and Optimization Solvers*
 
 - Worked with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/).
 
