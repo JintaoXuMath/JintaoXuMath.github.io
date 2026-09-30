@@ -24,7 +24,7 @@ Department of Mathematical Sciences; supervised by [Prof. Wenxun Xing](https://w
 
 **Postdoctoral Fellow, The Hong Kong Polytechnic University**, 2024.02 - 2025.09  
 
-*Large-scale Numerical Optimization, Solver*
+*Large-Scale Numerical Optimization and Optimization Solvers*
 
 - Worked with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/).
 
