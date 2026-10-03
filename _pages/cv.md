@@ -71,4 +71,3 @@ My research was previously supported by
 
 -  National Natural Science Foundation of China
 - PolyU postdoc matching fund scheme of the Hong Kong Polytechnic University
-- Huawei's Collaborative Grants "Large scale linear programming solver" and "Solving large scale linear programming models for production planning"
