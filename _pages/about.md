@@ -55,7 +55,7 @@ My research broadly lies in **AI for decision making**, with particular interest
 
 ## Selected Publications
 
-- [Zheng Qu](https://zhengqu-x.github.io/), [Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/) **Jintao Xu** (alpha-beta order). **Progressive Bound Strengthening via Doubly Nonnegative Cutting Planes for Nonconvex Quadratic Programs**, arXiv:2510.02948, 2025. [[paper](https://arxiv.org/abs/2510.02948)]
+- [Zheng Qu](https://zhengqu-x.github.io/), [Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/), **Jintao Xu** (alpha-beta order). **Progressive Bound Strengthening via Doubly Nonnegative Cutting Planes for Nonconvex Quadratic Programs**, arXiv:2510.02948, 2025. [[paper](https://arxiv.org/abs/2510.02948)]
   
 - [Yuhao Zhou](https://yuhaoz.com/), **Jintao Xu**, [Bingrui Li](https://bingrui-li.github.io/), [Chenglong Bao](https://matbc.github.io/), [Chao Ding](https://www.dingchao.info/), [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). **A Regularized Newton Method for Nonconvex Optimization with Global and Local Complexity Guarantees.** *Advances in Neural Information Processing Systems 38 (NeurIPS 2025)*. [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6a39cf3b666f8bdb2223f253981f3869-Abstract-Conference.html)]
 
