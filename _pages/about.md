@@ -71,7 +71,7 @@ My research broadly lies in **AI for decision making**, with particular interest
 
 ## Conferences
 
-- The Hong Kong Mathematical Society Annual General Meeting 2024, Hong Kong, Chjina.
+- The Hong Kong Mathematical Society Annual General Meeting 2024, Hong Kong, China.
 - The 9th International Conference on Statistical Optimization and Learning, Beijing, China.
 - The 8th International Conference on Statistical Optimization and Learning, Beijing, China.
 - The 14th Mathematical Optimization Conference of the Mathematical Programming Branch of Operations Research Society of China (MOS2023), Chengdu, China.
