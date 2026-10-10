@@ -63,7 +63,7 @@ My research broadly lies in **AI for decision making**, with particular interest
 
 - **Jintao Xu**, [Shu-Cherng Fang](https://ise.ncsu.edu/people/fang/), [Wenxun Xing](https://math.tsinghua.edu.cn/mathen/info/1312/3525.htm). **Semidefinite Programming Approximation for a Matrix Optimization Problem over an Uncertain Linear System.** *Journal of Nonlinear and Variational Analysis*, 8(6):831–853, 2024. [[paper](https://jnva.biemdas.com/archives/2536)]
 
-## Honors and Awards
+## Selected Honors and Awards
 
 - China National Scholarship
 - Excellent Doctoral Dissertation of Tsinghua University
