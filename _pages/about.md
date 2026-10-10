@@ -69,6 +69,17 @@ My research broadly lies in **AI for decision making**, with particular interest
 - Excellent Doctoral Dissertation of Tsinghua University
 - Outstanding Graduate of Beijing
 
+## Conferences
+
+- The Hong Kong Mathematical Society Annual General Meeting 2024, Hong Kong, Chjina.
+- The 9th International Conference on Statistical Optimization and Learning, Beijing, China.
+- The 8th International Conference on Statistical Optimization and Learning, Beijing, China.
+- The 14th Mathematical Optimization Conference of the Mathematical Programming Branch of Operations Research Society of China (MOS2023), Chengdu, China.
+- The 16th Annual Meeting of Operations Research Society of China (ORSC2022).
+- The 24th International Symposium on Mathematical Programming (ISMP2022).
+- International Congress of Mathematicians 2022 (ICM2022).
+- The 13th Mathematical Optimization Conference of the Mathematical Programming Branch of Operations Research Society of China (MOS2021).
+
 ## Contact
 
 - Email: [xujtmath@163.com](mailto:xujtmath@163.com)
