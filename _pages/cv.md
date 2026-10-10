@@ -65,6 +65,16 @@ Supervised by [Prof. Wenxun Xing](https://math.tsinghua.edu.cn/mathen/info/1312/
 - Excellent Doctoral Dissertation of Tsinghua University
 - Outstanding Graduate of Beijing
 
+## Conferences
+
+- The Hong Kong Mathematical Society Annual General Meeting 2024.
+- The 9th International Conference on Statistical Optimization and Learning.
+- The 8th International Conference on Statistical Optimization and Learning.
+- The 14th Mathematical Optimization Conference of the Mathematical Programming Branch of Operations Research Society of China (MOS2023).
+- The 16th Annual Meeting of Operations Research Society of China (ORSC2022).
+- The 24th International Symposium on Mathematical Programming (ISMP2022).
+- International Congress of Mathematicians 2022 (ICM2022).
+- The 13th Mathematical Optimization Conference of the Mathematical Programming Branch of Operations Research Society of China (MOS2021).
 
 ## Funding
 My research was previously supported by
