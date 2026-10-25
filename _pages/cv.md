@@ -67,6 +67,7 @@ Supervised by [Prof. Wenxun Xing](https://math.tsinghua.edu.cn/mathen/info/1312/
 
 ## Conferences
 
+- China National Computer Congress 2026.
 - The Hong Kong Mathematical Society Annual General Meeting 2024.
 - The 9th International Conference on Statistical Optimization and Learning.
 - The 8th International Conference on Statistical Optimization and Learning.
