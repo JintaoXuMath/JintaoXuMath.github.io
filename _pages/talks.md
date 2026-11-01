@@ -11,5 +11,6 @@ Department of Logistics and Maritime Studies, The Hong Kong Polytechnic Universi
 - **Cutting-plane framework designed for solving nonconvex quadratic programs.**
   School of Mathematics and Statistics, Xidian University, Xi'an, China, 2025.
 - **A Matrix Optimization Problem over An Uncertain Linear System and Its Semidefinite Programming Approximations.**
-  MOS2023, Chengdu, China, 2023. 
+  MOS2023, Chengdu, China, 2023.
+- **A Brief Introduction to P, NP, and NPC, Starting with the Turing Machine.** Tsinghua University, Beijing, China, 2020.
   
