@@ -8,7 +8,7 @@ author_profile: true
 - **Solver-Guided Large Language Models for Multi-Warehouse Inventory Allocation:
 From Formulation Generation to Selection.**
 The Hong Kong Polytechnic University, Hong Kong, China, 2026.
-- **Cutting-plane framework designed for solving nonconvex quadratic programs.**
+- **Cutting-Plane Framework Designed for Solving Nonconvex Quadratic Programs.**
   Xidian University, Xi'an, China, 2025.
 - **A Matrix Optimization Problem over An Uncertain Linear System and Its Semidefinite Programming Approximations.**
   MOS2023, Chengdu, China, 2023.
