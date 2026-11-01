@@ -5,8 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-## 2026
-
 - **Solver-Guided Large Language Models for Multi-Warehouse Inventory Allocation:
-From Formulation Generation to Selection**
+From Formulation Generation to Selection.** Department of Logistics and Maritime Studies, The Hong Kong Polytechnic University.      
   
