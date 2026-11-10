@@ -45,6 +45,8 @@ My research broadly lies in **AI for decision making**, with particular interest
 
 ## Recent Work
 
+- Zhongxuan Han, Zhengxin Shi, Kunxiu Chen, Xiaolin Huang, Yulin Huang, Anni Zhang, Xiaoming Lin, Zhengyu Chen, Xue Yu, Yang Liu, Yuanyuan Yang, Yangyang Zhang, Junheng Huang, Dongyang Geng, Ben Zhang, Xin Wang, Jiaxin Wang, Haowei Zhou, Qiqi Yan, Jiaheng Yin, **Jintao Xu**, Zijiang Liu, Changfei Zhan, Zhe Chen, Yutong Pan, Jinqiu Deng, Shaomin Li, Ningxuan Kang, Jianshen Zhang, [Yongzhi Qi](https://qi-yongzhi.github.io/), [Wei Qi](https://wei-qi-home.github.io/), [Dazhou Lei](https://dazhoulei.github.io/), [Zuo-Jun Max Shen](https://zj-maxshen.github.io/). **TimeHF 2.0: Multimodal, Multivariate, and Multi-Region Collaborative Forecasting for Large-Scale Retail Supply Chains.** 	arXiv:2611.10521, 2026. [[paper](https://arxiv.org/abs/2611.10521)]
+
 - **Jintao Xu**, Zhengyu Chen, Ben Zhang, [Yongzhi Qi](https://qi-yongzhi.github.io/), Jianshen Zhang. **When Should a World Model Move? Loss-Conditioned State Execution.** arXiv:2609.15801, 2026. [[paper](https://arxiv.org/abs/2609.15801)]
 
 - Yuanyu Li, **Jintao Xu**, Zijiang Liu, [Yongzhi Qi](https://qi-yongzhi.github.io/), Ningxuan Kang, Jianshen Zhang, [Wei Qi](https://wei-qi-home.github.io/), Chen Xie, [Zuo-Jun Max Shen](https://zj-maxshen.github.io/). **SSPO: Structure-Aware Similarity-Weighted Preference Optimization for Neural Combinatorial Optimization.** arXiv:2608.12443, 2026. [[paper](https://arxiv.org/abs/2608.12443)]
